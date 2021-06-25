@@ -1,5 +1,5 @@
 
-msg = Hello world - this is from config server - default profile
+message = Hello world - this is from config server - default profile
 #eureka:
  # client:
   #  register-with-eureka: true
